@@ -37,7 +37,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /Users/andrewl/Downloads/Spring2023/cmsc389T/proj5
+      device: /Users/andrewl/Downloads/Spring2023/cmsc389T/proj5/cmsc389T-web-template
       o: bind
 
 networks:
