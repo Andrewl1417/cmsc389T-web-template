@@ -1,15 +1,7 @@
 # cmsc388T-web-template
 
-## Color Family
-Light yellow: #FAF8D4
+## Custom Changes
+Aside from the required changes to be made in Part 1, I changed the color of my website and added Instagram at the bottom of my website.
 
-Almond: #EBDCCB
-
-Dun: #C3BAAA
-
-Taupe Gray: #91818A
-
-Rose quartz: #B2A3B5
-
-## CSS
-.img -> where you can adjust image size
+## Links
+[Github Page] (https://andrewl1417.github.io/cmsc389T-web-template/)
