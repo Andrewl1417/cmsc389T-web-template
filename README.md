@@ -2,6 +2,7 @@
 
 ## Links
 [Github Page](https://andrewl1417.github.io/cmsc389T-web-template/)
+<br>
 [TerpConnect Page](https://terpconnect.umd.edu/~aliu1213/aliu1213/index.html)
 
 ## Custom Changes
