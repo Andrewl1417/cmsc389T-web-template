@@ -6,6 +6,8 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8080:80"
+    image: nodejs
+    container_name: nodejs
     restart: unless-stopped
   
     #fill out the configuration here
