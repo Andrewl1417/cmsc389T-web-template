@@ -2,6 +2,7 @@
 
 ## Links
 [Github Page](https://andrewl1417.github.io/cmsc389T-web-template/)
+[TerpConnect Page](https://terpconnect.umd.edu/~aliu1213/aliu1213/index.html)
 
 ## Custom Changes
 Aside from the required changes to be made in Part 1, I changed the color of my website and added Instagram at the bottom of my website.
